@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[59,)"
+license="MIT"
+issueTrackerURL=""
+
+[[mods]]
+modId="modstrany"
+version="1.0.0"
+displayName="Мод Страны"
+description='''
+    Базовый мод для Minecraft 1.20.1 на Forge.
+'''
+modType="JAVA"
+
+[[dependencies.modstrany]]
+modId="forge"
+mandatory=true
+versionRange="[45.1.0,)"
+ordering="NONE"
+side="BOTH"
